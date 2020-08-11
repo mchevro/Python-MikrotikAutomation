@@ -1,7 +1,3 @@
-interface bridge add name senin
-ip address add address=10.10.10.1/32 int senin
-interface bridge add name selasa
-ip address add address=10.10.10.2/32 int selasa
 ip firewall filter add action=fasttrack-connection chain=forward comment=FastTrack connection-state=established,related
 ip firewall filter add action=accept chain=input comment=Test
 ip firewall filter add action=accept chain=input comment=Test2
