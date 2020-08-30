@@ -2,7 +2,7 @@
 AUTHOR    : MCHEVRO
 PYTHON    : 3.8
 Github    : https://github.com/mchevro
-Refresnsi : https://github.com/ArRosid
+Refrensi  : https://github.com/ArRosid
 '''
 import paramiko 
 import time
