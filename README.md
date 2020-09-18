@@ -1,4 +1,5 @@
 # Mikrotik-Automation
+Tested : Python3.8
 ### Cara Jalankan Script
 - Install Module Paramiko
 - Jalankan Script **MikroAutomation.py**
